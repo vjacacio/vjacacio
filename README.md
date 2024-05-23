@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>Hi, I'm Victor! <br/><a href="https://github.com/vjacacio">XXX</a>, <a href="https://www.linkedin.com/in/vacacio/">Cybersecurity Professional</a>, <a 
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
