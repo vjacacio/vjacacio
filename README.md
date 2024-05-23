@@ -4,7 +4,7 @@
 
 - <b>Project 1</b>
 
-<h2> 🤳 Certifications:</h2>
+<h2> ✅  Certifications:</h2>
 
 - [Google Foundations of Cybersecurity](https://coursera.org/share/12712613961c4c34dcd9179de623e558) - General Foundation concepts of Cybersecurity
 -  [Google Play It Safe: Manage Security Risks](https://coursera.org/share/c71c8850e65bfccc0dc0270f09f595dd) - Identify the primary threats and vulnerabilities of business operations while learning how to use SIEM tools
