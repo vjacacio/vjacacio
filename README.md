@@ -1,9 +1,13 @@
-<h1>Hi, I'm Victor! <br/><a href="https://github.com/vjacacio">XXX</a>, <a href="https://www.linkedin.com/in/vacacio/">Cybersecurity Professional</a>, <a 
+<h1>Hi, I'm Victor! <br/><a href="https://github.com/vjacacio">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/vacacio/">Account Manager</a>, <a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Project 1</b>
- 
+
+<h2> 🤳 Certifications:</h2>
+
+- [Google Foundations of Cybersecurity](https://coursera.org/share/12712613961c4c34dcd9179de623e558) - General Foundation concepts of Cybersecurity
+-  [Google Play It Safe: Manage Security Risks](https://coursera.org/share/c71c8850e65bfccc0dc0270f09f595dd) - Identify the primary threats and vulnerabilities of business operations while learning how to use SIEM tools
 
 <h2> 🤳 Connect with me:</h2>
 
